@@ -1,5 +1,11 @@
 # 💫 About Me:
-Atuando como desenvolvedor Full Stack há mais de 6 anos de experiência em desenvolvimento front-end - React.Js, Gatsby.JS, Next.JS, PHP - 7 anos de experiência em back-end - Node.JS, Nest.JS, .NET Core Framework, Java, Python, Django, Flask, Ruby On Rails e GoLang - 2 anos de experiencia com desenvolvimento mobile - React Native e Flutter - 5 anos atuando em paralelo com a cultura DevOps/Cloud Development - Nuvens públicas como AWS, GCP e Azure, nuvens privadas como Apache Cloudstack, OpenStack e OpenNebula, Jenkins, Zabbix, Elastic Search, Logstash, Kibana, Cloudwatch, Kafka, RabbitMQ, Redis e Pipelines de CI/CD - Atuando há 4 anos com desenvolvimento em containers (docker e kubernetes). Utilizo linux há mais de 8 anos, possuindo alguns certificados sobre o sistema, porém tendo domino das outras plataformas também (MacOS e Windows).
+
+Atuando com desenvolvimento há:
+  - 8 anos de experiência em front-end;
+  - 7 anos de experiência em back-end;
+  - 5 anos de experiência em DevOps/Cloud computing;
+  - 4 anos de experiência em desktop e;
+  - 2 anos de experiância em mobile.
 
 
 ## 🌐 Socials:
