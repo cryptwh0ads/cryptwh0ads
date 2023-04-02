@@ -5,7 +5,7 @@ Atuando com desenvolvimento há:
   - 7 anos de experiência em back-end;
   - 5 anos de experiência em DevOps/Cloud computing;
   - 4 anos de experiência em desktop e;
-  - 2 anos de experiância em mobile.
+  - 2 anos de experiência em mobile.
 
 
 ## 🌐 Socials:
